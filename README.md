@@ -22,10 +22,8 @@ Puedes seguir estos pasos para la instalación:
 ```bash
   git clone https://github.com/yorchavez9/pagina-web-de-videos-.git
 ```
-* El archivos descargo tiene que estar dentro de c/xammp/htdoc/{nombre-del-archivo}
-```bash
-  sis_torneo
-```
+* El archivos descargado tiene que estar en c/xammp/htdoc/{nombre-del-archivo}
+
 * Importar la base de datos en el navgador "http://localhost/phpmyadmin/"
 ```bash
   db.video.sql
@@ -59,9 +57,28 @@ Por ültimo ejecutar el proyecto en "http://localhost/{Nombre del archivo o proy
 
 ![Incio de la página](public/img/01.png)
 
-#### Inico de la página
+#### Reproducción de video
 
-![Incio de la página](public/img/01.png)
+![Reproduciónd el video](public/img/02.png)
+
+
+![Incio de la página](public/img/03.png)
+
+![Incio de la página](public/img/04.png)
+
+![Incio de la página](public/img/05.png)
+
+![Incio de la página](public/img/06.png)
+
+![Incio de la página](public/img/07.png)
+
+![Incio de la página](public/img/08.png)
+
+![Incio de la página](public/img/09.png)
+
+![Incio de la página](public/img/10.png)
+
+![Incio de la página](public/img/11.png)
 
 
 
